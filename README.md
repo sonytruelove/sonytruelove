@@ -12,7 +12,7 @@
   <img src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp?cid=ecf05e47euy0jysjs5hxcg5jxg35zkgcvb3d2po92h3ygqs7&rid=200w.webp&ct=g" width="40px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b76116f080b933ce8615290e7097915ac1d288531069d&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 :man_technologist: Обо мне (About me) : 
 
