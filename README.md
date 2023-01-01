@@ -28,7 +28,7 @@ I am a Full Stack Developer from Russia.
 
    In my free time, I solve problems on Codewars,complete courses(Stepik) and read tech articles(like "Code Complete by Steve Mcconnnel" or "Clean Code by Robert Martin").
 
-:hammer_and_wrench: Языки и инструменты(Languages and Tools) :
+:hammer_and_wrench: Языки и инструменты(Toolbox) :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -63,6 +63,7 @@ I am a Full Stack Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" **alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" **alt="VSC" width="40" height="40"/>&nbsp;
 </div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonytruelove&langs_count=8)]
-</div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonytruelove&langs_count=8&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
