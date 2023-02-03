@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.webp?cid=ecf05e472ipz0kk9pujj8anhpkhkg6tp5ez6heq6yln3mhed&rid=200w.webp&ct=g" width="200"/>
 </div>
-<div id="badges">
- <a href="https://www.codewars.com/users/sonytruelove">
- <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge">
+<div id="badges" align="center">
+<img src="https://www.codewars.com/users/sonytruelove/badges/large">
  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=sonytruelove&style=for-the-badge&color=blue" alt=""/>
