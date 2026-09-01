@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4d6bfe,100:6699ff&height=140&section=header&text=sonytruelove&fontColor=ffffff&fontSize=40&desc=Fullstack%20Developer%20and%20AI%20Engineer%20%C2%B7%20Open%20to%20work&descAlignY=70&descSize=14" width="100%" alt="sonytruelove" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4d6bfe,100:6699ff&height=140&text=sonytruelove&fontColor=ffffff&fontSize=38&desc=Fullstack%20Developer%20and%20AI%20Engineer&descSize=16&descAlignY=72" width="100%" alt="sonytruelove" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20%2B%20AI-6699ff?style=flat-square" alt="Fullstack + AI" />
@@ -114,15 +114,6 @@ Also: 3+ years in VK Testers with 3000+ reports and around 300 confirmed vulnera
 - [Django-service-for-energo-company-with-1C-integration](https://github.com/sonytruelove/Django-service-for-energo-company-with-1C-integration) : Django service with 1C integration over OData for an energy company.
 - [Digital-educational-resource-environment](https://github.com/sonytruelove/Digital-educational-resource-environment) : educational resource environment on top of Moodle (FastAPI + Moodle API).
 - [Place](https://github.com/sonytruelove/Place) : self-hosted high-load file storage, NestJS + Next.js, CockroachDB.
-
----
-
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sonytruelove&show_icons=true&hide_border=true&title_color=006aef&icon_color=4d6bfe&text_color=808080&bg_color=00000000" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonytruelove&layout=compact&hide_border=true&langs_count=8&title_color=006aef&text_color=808080&bg_color=00000000" height="150" alt="Top languages" />
-</p>
 
 ---
 
