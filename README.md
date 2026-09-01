@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4d6bfe,100:6699ff&height=140&text=sonytruelove&fontColor=ffffff&fontSize=38&desc=Fullstack%20Developer%20and%20AI%20Engineer&descSize=16&descAlignY=72" width="100%" alt="sonytruelove" />
+<h1 align="center">sonytruelove</h1>
+<p align="center"><b>Fullstack Developer &amp; AI Engineer</b></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4d6bfe,100:6699ff&height=6" width="100%" alt="" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20%2B%20AI-6699ff?style=flat-square" alt="Fullstack + AI" />
